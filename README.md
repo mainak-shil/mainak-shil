@@ -1,5 +1,7 @@
 # Hello World 👋
-
+<!-- Full-stack developer.
+Passionate about photography and traveling.
+ -->
 <a href="https://www.linkedin.com/in/mainakshil">
   <img align="left" alt="Mainak Shil - LinkedIn" width="22px" style="margin-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
