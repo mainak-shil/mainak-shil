@@ -23,6 +23,7 @@ Technologies:
   - ReactJs
   - Android
   - Node
+  - MERN stack
    
 Languages:
   - Javascript
