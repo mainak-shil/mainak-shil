@@ -20,10 +20,11 @@ const AboutMe = {
   "Frontend": {
     "Html": true,
     "Css": true,
-    "Android-Development": true,
-    "ReactJS": true,
+    "ReactJs": true,
     "React-Native": true,
-    "Vue": "Learning"
+    "NextJs": "Learning"
+    "Vue": "Learning",
+    "Android-Development": true,
   },
   "Backend": {
     "NodeJs": true,
