@@ -12,28 +12,36 @@ Passionate about photography and traveling.
 <br />
 <br />
 
-I'm an Engineer by profession and a photographer by passion.
-<br/>
-With most of my experience in front-end development, I have a solid understanding of UI/UX.
-<br/><br/>
-
-Technologies:
-
-  - React Native
-  - ReactJs
-  - Android
-  - Node
-  - MERN stack
-   
-Languages:
-  - Javascript
-  - Typescript
-  - Java
-
-<br/>
-....this isn't end, there are more to be added :)
-<br/>
-<br/>
+```javascript
+const AboutMe = {
+  "Whoami": `I'm an enthusiast of software, interested in the web, mobile, backend, devOps, 
+  you name it when I find the time to learn it I will 😁`,
+  "graduation": `West Bengal Board of University in Computer Science and Engineering; 2018`,
+  "Frontend": {
+    "Html": true,
+    "Css": true,
+    "Android-Development": true,
+    "ReactJS": true,
+    "React-Native": true,
+    "Vue": "Learning"
+  },
+  "Backend": {
+    "NodeJs": true,
+  },
+  "Languages": {
+    "JavaScript": true,
+    "TypeScript": "Learning",
+    "Java": "Last time I wrote this was years ago",
+  },
+  "DevOps": {
+    "Docker": "Learning",
+    "Jenkins": "Learning",
+    "AWS": ["IAM", "EC2", "CodeCommit", "Amplify", "S3", "Cognito"],
+    "Others": ["Digital Ocean", "Heroku", "Github Actions", "And a bunch more"]
+  },
+   "Tools": ["Vscode", "Git", "Postman", "Insomnia", "And a bunch more"]
+}
+```
 
 Cheers
 <br/>
