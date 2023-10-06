@@ -38,6 +38,7 @@ const AboutMe = {
     "Docker": "Learning",
     "Jenkins": "Learning",
     "AWS": ["IAM", "EC2", "CodeCommit", "Amplify", "S3", "Cognito"],
+    "Firebase": ["Cloud Messaging", "Cloud Storage", "Authentication", "Realtime Database", "Crashlytics"],
     "Others": ["Digital Ocean", "Heroku", "Github Actions", "And a bunch more"]
   },
    "Tools": ["Vscode", "Git", "Postman", "Insomnia", "And a bunch more"]
