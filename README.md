@@ -18,16 +18,22 @@ const AboutMe = {
   you name it when I find the time to learn it I will 😁`,
   "graduation": `West Bengal Board of University in Computer Science and Engineering; 2018`,
   "Frontend": {
-    "Html": true,
-    "Css": true,
     "ReactJs": true,
     "React-Native": true,
     "NextJs": "Learning"
     "Vue": "Learning",
     "Android-Development": true,
+    "Html": true,
+    "Css": true,
+    "Bootstrap": true
   },
   "Backend": {
     "NodeJs": true,
+    "Koa": true,
+    "Strapi": true
+    "MongoDb": true,
+    "Sql": "basics",
+    "Postgresql": true
   },
   "Languages": {
     "JavaScript": true,
@@ -35,7 +41,7 @@ const AboutMe = {
     "Java": "Last time I wrote this was years ago",
   },
   "DevOps": {
-    "Docker": "Learning",
+    "Docker": true,
     "Jenkins": "Learning",
     "AWS": ["IAM", "EC2", "CodeCommit", "Amplify", "S3", "Cognito"],
     "Firebase": ["Cloud Messaging", "Cloud Storage", "Authentication", "Realtime Database", "Crashlytics"],
